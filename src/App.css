@@ -14,8 +14,8 @@
 }
 
 .App-header {
-  //this is my first first edit original colour is #282c34
-  background-color: blue;
+ 
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
