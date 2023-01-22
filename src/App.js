@@ -1,7 +1,7 @@
 
 import './App.css';
 import PostsTable from './PostTable';
-import AddP from './addP';
+import AddP from './addPost';
 
 function App() {
   return (
